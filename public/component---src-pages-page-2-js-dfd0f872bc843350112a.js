@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[7],{p5nM:function(e,t,a){"use strict";a.r(t);var n=a("q1tI"),l=a.n(n),r=a("Wbzz"),o=a("Bl7J"),c=a("vrFN");t.default=function(e){var t=e.data;return l.a.createElement(o.a,null,l.a.createElement(c.a,{title:"Page two"}),l.a.createElement("h1",null,"Welcome to ",t.site.siteMetadata.title),l.a.createElement("p",null,"I have used a GraphQL query"),l.a.createElement(r.Link,{to:"/"},"Go back to the homepage"))}}}]);
+//# sourceMappingURL=component---src-pages-page-2-js-dfd0f872bc843350112a.js.map
